@@ -1,0 +1,7 @@
+.metals
+.vscode
+.DS_Store
+test/.DS_Store
+CLAUDE.md
+lab2-part1.pdf
+assets/cpu-scheduler.mov
